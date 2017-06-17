@@ -1,0 +1,36 @@
+content: []
+coverPrefs:
+  filter: false
+title: 'Inspiration and More :)'
+content_rating:
+  adult: false
+layout_spectrum: 0.398160894231797
+github: true
+author: {}
+name: yoco2
+analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.8424411260095046
+  lightness: 0.55517255042237
+  saturation: 0.2863751041773928
+  rhythmicContrast: 0.1414677686377032
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+typography_spectrum: 0.3245506129119693

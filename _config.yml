@@ -35,3 +35,7 @@ collections:
     permalink:
       path: '/:title/'
 description: YOCO Your Communication GmbH - Brand Design und Integrierte Komminikation
+purpose:
+  - type: contact
+    url: 'tel:+41522033454'
+    label: Call +41 52 203 34 54
